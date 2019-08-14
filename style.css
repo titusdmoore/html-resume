@@ -1,0 +1,54 @@
+div, h1, h2, h3, h4, p, span, ul, li {
+    font-family: Lato, 'Times New Roman', Times, serif;
+}
+.main-content {
+    padding: .5rem 1rem;
+}
+.main-title {
+    font-size: 22px;
+    text-transform: uppercase;
+    margin-bottom: .2rem;
+    color: #060a24;
+}
+.sub-title {
+    color: #00149c;
+    text-transform: uppercase;
+    font-size: 16px;
+    margin-top: .1rem;
+}
+.header-container {
+    border-bottom: 2px solid #00149c;
+    position: relative;
+}
+.logo-container {
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.img {
+    height: 4rem;
+}
+
+.hl-span {
+    font-size: 16px;
+    color: #00149c;
+    font-weight: 900;
+    margin-right: 6px;
+}
+.header-links {
+    text-align: end;
+    position: relative;
+}
+
+.hl-link {
+    text-decoration: none;
+    color: #060a24;
+    font-size: 16px;
+}
+
+.cert-logo {
+    position: absolute;
+    left: 0;
+    height: 7rem;
+}
